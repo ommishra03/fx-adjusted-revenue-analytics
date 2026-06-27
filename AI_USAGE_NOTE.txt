@@ -1,0 +1,7 @@
+AI Usage Note
+
+AI tools, including ChatGPT (OpenAI) and Claude (Anthropic), were used as productivity aids during this assessment. These tools helped with brainstorming approaches, validating SQL syntax, troubleshooting code issues, refining visualizations, and improving the overall structure and presentation of the analysis.
+
+All data cleaning, calculations, SQL queries, visualizations, model assumptions, business interpretations, and final recommendations were completed and verified by me. Every analytical step and output was reviewed against the dataset and tested before being included in the final submission.
+
+AI was used to accelerate development and documentation, but the problem-solving approach, analytical decisions, findings, and conclusions presented in this project reflect my own understanding and judgment.
